@@ -19,7 +19,7 @@ cd vue-elm
 
 npm install
 
-
+npm run dev
 
 ```
 
